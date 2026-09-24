@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Biswajit Mallick (Bappu) 
+# Hi, I'm Biswajit Mallick (Bappu) 
 
 I am committed to achieving my goal of becoming a researcher and seek opportunities within my field of passion where I can contribute meaningfully by leveraging my academic background, professional expertise, and research experience while continuing to grow intellectually and professionally.
 
@@ -19,11 +19,17 @@ I am committed to achieving my goal of becoming a researcher and seek opportunit
 ---
 
 ## 🛠️ Technical Skills
+* **Languages :** Bengali (Native), English (Professional proficiency)
+* **Digital Skills :** Google Workspace, MS Office Applications, Media modification.
+* **Programming Languages :** C, C++, Python, Java,R.
+* **Version Control :** Gitbash, Github.
+* **Web Development :** HTML, Bootstrap, CSS, MySQL, JavaScript, PHP, LARAVEL, WordPress.
+* **Data analytics :** Excel solver, Power BI
+* **IDE Skills :** Google Collaboratory, Code Blocks, Visual Studio Code, LaTeX, Kaggle, NetBeans.
+* **Soft Skills :** Leadership, Adaptability, Multi-Tasking, Time Management, Critical Thinking Ability, Working Under Pressure.
+* **Computer Skills :** Microsoft Word, Microsoft PowerPoint, Microsoft Excel Worksheet, Abode Photoshop, Video Editing, Operating System, Unity Hub, Cisco Packet Tracer,Tinkercad, Project Management.
+* **Other Field Skills :** Artificial Intelligence, Machine Learning, Deep Learning, Data Augmentation, Natural Language Processing, Data Analysis & Analytics, Data Mining, Data Preprocessing, Data Scrapping, Data Visualization.
 
-* **Languages:** Python, C++, SQL, PHP, Java, JavaScript
-* **AI & Deep Learning:** TensorFlow, Keras, PyTorch, Google AI Studio (Gemini API)
-* **Audio & Vision Processing:** Librosa, OpenCV, NumPy, SciPy
-* **Deployment & Monitoring:** Gradio Interfaces, OpenTelemetry APIs, Cloud Infrastructure
 
 ---
 
