@@ -14,7 +14,8 @@ I am committed to achieving my goal of becoming a researcher and seek opportunit
 
 ### 🩸 Hybrid Deep Learning Approach for Melanoma Cancer Detection
 * **Status:** `Manuscript Under Review` at the *Malaysian Journal of Fundamental and Applied Sciences*.
-* **Focus:** Developed computer vision preprocessing frameworks to accurately classify complex skin lesion variants using custom CNN layers.
+* **Focus:** This research experience centers on automated oncology diagnostics through computational medical image analysis to accurately segment and classify five high-fatality Melanoma skin cancer variants from complex skin lesions. The methodology involved the structural design of a massive hybrid ensemble pipeline integrating 19 separate predictive models—orchestrating 13 traditional machine learning algorithms alongside 6 deep transfer learning architectures to optimize high-dimensional spatial feature extraction.
+The investigative approach successfully addresses prominent research gaps in digital healthcare infrastructure by mitigating historic laboratory turnaround bottlenecks and subjective clinical assessment variables. By engineering robust computer vision and data preprocessing workflows, this framework establishes a scalable, non-invasive screening solution designed to advance early-stage symptomatic diagnostics, specifically within resource-constrained and third-world countries.
 
 ---
 
