@@ -1,6 +1,7 @@
 # Hi, I'm Biswajit Mallick (Bappu) 
 
 I am committed to achieving my goal of becoming a researcher and seek opportunities within my field of passion where I can contribute meaningfully by leveraging my academic background, professional expertise, and research experience while continuing to grow intellectually and professionally.
+<img width="800" height="1143" alt="1702040583850" src="https://github.com/user-attachments/assets/f4c51d65-55ae-4d66-8471-68ec23fdff25" />
 
 ---
 
